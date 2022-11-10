@@ -1,0 +1,7 @@
+body{
+    /* background-color: black; */
+}
+#demo> img{
+    width: 200px;
+    border: 10px solid red;
+}
